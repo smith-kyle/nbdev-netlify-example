@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-netlify-example"
+  site-url: "https://smith-kyle.github.io/nbdev-netlify-example"
+  description: "An example of documentation only nbdev project using Netlify"
+  repo-branch: main
+  repo-url: "https://github.com/smith-kyle/nbdev-netlify-example"
